@@ -1,0 +1,1 @@
+- [Glam by Ankita — preserve credits](glam-credits.md) — footer credits must never be removed or modified; standing user rule.
